@@ -10,3 +10,12 @@
 ## About Me:
 
 I am a Wordpress developer. I'm taking courses at RS School. I want to learn JavaScript and become a good specialist.
+
+## Skills:
+
+* HTML;
+* CSS;
+* JavaScript (Basics);
+* GIT;
+* Figma;
+* Wordpress.
