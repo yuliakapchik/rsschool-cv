@@ -36,6 +36,8 @@ function multiply(a, b){
 * GloAcademy:
   - [Web-start](https://vk.com/market-123083697?w=product-123083697_2132103%2Fquery);
   - [Wordpress](https://vk.com/market-123083697?w=product-123083697_4016021%2Fquery);
-* [RS School - JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
-* [RS School - JavaScript/Front-end. Stage 1](https://rs.school/js/) (in process);
+* RS School:
+  - [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
+  - [JavaScript/Front-end. Stage 1](https://rs.school/js/) (in process);
 * [Udemy](https://www.udemy.com/course/javascript_full/) (in process);
+
