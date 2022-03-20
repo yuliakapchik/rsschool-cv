@@ -19,3 +19,11 @@ I am a Wordpress developer. I'm taking courses at RS School. I want to learn Jav
 * GIT;
 * Figma;
 * Wordpress.
+
+## Code Example:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
