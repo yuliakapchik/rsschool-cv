@@ -41,3 +41,8 @@ function multiply(a, b){
   - [JavaScript/Front-end. Stage 1](https://rs.school/js/) (in process);
 * [Udemy](https://www.udemy.com/course/javascript_full/) (in process);
 
+## Languages:
+
+* Russian - native;
+* Spanish - studied at school and university;
+* English - i study on my own with Duolingo.
